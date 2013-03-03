@@ -94,6 +94,8 @@ public class script_SpellHolder : MonoBehaviour {
 		//}
 	}
 	
+	//This is a test comment
+	
 	/*private void initialiseSpell()
 	{
 		if(spellCombinations.Contains(spellStack))
