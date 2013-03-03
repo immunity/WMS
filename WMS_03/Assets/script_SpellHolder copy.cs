@@ -108,8 +108,6 @@ public class script_SpellHolder : MonoBehaviour {
 		
 	}*/
 	
-	//This is a test for the massive balls
-	
 	public Transform GetPalmLocation()
 	{
 		return palmSpawn;
